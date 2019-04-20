@@ -1,9 +1,8 @@
-# liri-node-app
 
-# Instrictions. 
+# Overview 
 
-In order to see the list of songs type:  
-node liri.js spotify-this-song "the name of the song"
+Liri-node-app is a back-end command line app that interacts with Spotify API. The app allows user to serach for a song and return a list of song with the matching titles that are available in Spotify.
 
-and Liri will return the list of songs with matching names
+## Views
 
+Liri is a command line app so in order to run the app you'll need to open to command line. 
